@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-221xcb.kujang138bos.online/sitemap.xml
